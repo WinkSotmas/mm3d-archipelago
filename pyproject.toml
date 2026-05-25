@@ -7,4 +7,4 @@ name = "mm3d-archipelago"
 version = "0.1.0"
 description = "Archipelago integration for Majora's Mask 3D (Citra-focused MVP)."
 authors = [ { name = "WinkSotmas" } ]
-dependencies = ["click", "PyYAML", "archipelago-client"]
+dependencies = ["click", "PyYAML"]
